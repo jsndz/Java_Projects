@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.Scanner;
 class employee{
     String empName,empAddress,mailId;
     int mobileNo,empId;
